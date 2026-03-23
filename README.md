@@ -47,19 +47,6 @@
 
 ---
 
-### 📈 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash143stat&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash143stat&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Avinash143stat&theme=tokyonight" height="160" />
-</p>
-
----
-
 ### 🤝 Collaboration
 
 - Open to collaborations in: AI for agriculture, climate resilience, health and occupational safety, food quality, and applied statistics.  
